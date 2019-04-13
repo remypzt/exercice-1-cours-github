@@ -1,0 +1,1 @@
+l'exercice entrepris entre dans le cadre d'un cours pour apprendre à se servir de git et github. Dans ce cours nous avons déjà appris ce qu'est un logiciel de versionning, à nous servir de bash pour créer un reportery git, qu'est ce qu'un remote (en gros c'est un back up), nous avons également entrepris d'apprendre et comprendre le workflow d'un développeur qui travail avec git.
